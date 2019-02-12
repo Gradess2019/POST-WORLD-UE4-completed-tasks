@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 Stepan
+Copyright © 2016-2019 Screwdriver Entertainment
